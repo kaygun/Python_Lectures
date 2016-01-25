@@ -6,8 +6,8 @@ What are we going to need?
 
 We are going to need 2 pieces of software:
 
-    * python
-    * ipython or jupyter
+ * python
+ * ipython or jupyter
 
 ## Python
 
