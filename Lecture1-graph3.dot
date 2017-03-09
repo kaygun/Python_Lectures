@@ -1,0 +1,5 @@
+digraph {
+  node[shape=rectangle];
+  "User" -> "User Interface" -> "Back-End";
+  "Back-End" -> "User Interface" -> "User";
+}

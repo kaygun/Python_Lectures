@@ -1,0 +1,4 @@
+digraph ecr {
+  node[shape="rectangle"];
+  edit -> run -> debug -> edit;
+}
